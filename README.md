@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @UzayGok
 - 🌱 I’m currently learning M. Sc. Biomedical Computing at the TUM
 - 📫 How to reach me https://www.linkedin.com/in/uzay-g%C3%B6k-962464236/  
-- instagram.com/uzaygokk
 - Just keeping this repo as a collection of some of the stuff I have worked on in the past
