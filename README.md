@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @UzayGok
-- 🌱 I’m currently studying M. Sc. Biomedical Computing at the TUM
-- 📫 How to reach me https://www.linkedin.com/in/uzay-g%C3%B6k-962464236/  
-- Just keeping this repo as a collection of some of the stuff I have worked on in the past
+TUM B.Sc. Informatik - TUM M.Sc. Biomedical Computing - Deloitte CT&SE - Cloud Platform Engineering
